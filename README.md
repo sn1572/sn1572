@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sn1572
-- 👀 My professional interests are in HPC, computer vision, and machine learning, but those projects have to remain private :(. In my spare time, sometimes I work on projects which are tracked here. Also I like mountain biking and building mountain bike trails. I am a board member of the local SORBA chapter.
-- 🌱 I’m currently learning opengl! Making my way through the tutorials at [learnopengl](https://learnopengl.com/). Professionally I am learning about Linux device drivers, as well as tools for packaging our projects (autotools for example).
+- 👀 My professional interests are in HPC, computer vision, and machine learning. In my spare time, sometimes I work on projects which are tracked here. Also I like mountain biking and building mountain bike trails. I am a board member of the local SORBA chapter.
+- 🌱 I’ve just started making contributions to cusignal!
 - 📫 How to reach me: Shoot an e-mail.
 
 <!---
