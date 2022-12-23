@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sn1572
-- 👀 My professional interests are in HPC, computer vision, and machine learning. In my spare time, sometimes I work on projects which are tracked here. Also I like mountain biking and building mountain bike trails. I am a board member of the local SORBA chapter.
-- 🌱 I’ve just started making contributions to cusignal! We are working on adding Pytorch functionality. We are learning a lot doing this!
+- 👀 My professional interests are in HPC, cloud architectures, web app dev (and all that goes with it), and machine learning. In my spare time, sometimes I work on projects which are tracked here. Also I like mountain biking and building mountain bike trails. I am a board (not boreed!) member of the local SORBA (Southern Off Road Bicycle Association) chapter.
+- 🌱 I’ve just started making contributions to cusignal!
 - 📫 How to reach me: Shoot an e-mail.
 
 <!---
